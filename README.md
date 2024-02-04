@@ -1,3 +1,10 @@
+
+# 💫 About Me:
+🔭 🚀 Hey! I'm Sahil, a tech enthusiast and student at Marwadi University 🎓. Currently exploring the fascinating world of Google Cloud Platform 🌐 to bridge tech with society. I'm all about making the digital future fair and accessible.<br><br>🌱 I’m currently learning Full Stack Development<br>🚀 Tech Enthusiast <br>🌐 Cloud Learner  <br>🛠️ Open Source Beginner <br>💡 Making Tech Inclusive  <br>🔧 Microsoft Explorer 
+
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -37,7 +44,8 @@
 ### DevOps  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a> 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
 </td></tr></table>  
@@ -54,6 +62,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
