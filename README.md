@@ -2,6 +2,10 @@
 # 💫 About Me:
 🔭 🚀 Hey! I'm Sahil, a tech enthusiast and student at Marwadi University 🎓. Currently exploring the fascinating world of Google Cloud Platform 🌐 to bridge tech with society. I'm all about making the digital future fair and accessible.<br><br>🌱 I’m currently learning Full Stack Development<br>🚀 Tech Enthusiast <br>🌐 Cloud Learner  <br>🛠️ Open Source Beginner <br>💡 Making Tech Inclusive  <br>🔧 Microsoft Explorer 
 
+## Community 🚩
+Google Developer Student Clubs 
+Google Cloud Facilitator
+
 
 
 
