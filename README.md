@@ -1,4 +1,4 @@
-
+![image](https://github.com/SahilRakhaiya05/SahilRakhaiya05/assets/144577420/7a94d35d-94ad-46a0-a590-606e0c5276cf)
 # 💫 About Me:
 🔭 🚀 Hey! I'm Sahil, a tech enthusiast and student at Marwadi University 🎓. Currently exploring the fascinating world of Google Cloud Platform 🌐 to bridge tech with society. I'm all about making the digital future fair and accessible.<br><br>🌱 I’m currently learning Full Stack Development<br>🚀 Tech Enthusiast <br>🌐 Cloud Learner  <br>🛠️ Open Source Beginner <br>💡 Making Tech Inclusive  <br>🔧 Microsoft Explorer 
 
@@ -45,6 +45,8 @@
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a> 
+<a href="https://img.shields.io/badge/Postman-FF6C37/" target="_blank"><img style="margin: 10px" src="![image](https://github.com/SahilRakhaiya05/SahilRakhaiya05/assets/144577420/a4e59b21-f9cf-406b-ad3e-e9e780928c22)
+" alt="postman" height="50" /></a>  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
