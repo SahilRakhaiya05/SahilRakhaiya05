@@ -68,5 +68,7 @@ Google Cloud Facilitator
 </div>  
 <br/>  
 
+[![Holopin badges](https://holopin.me/development_learner)](https://holopin.io/@development_learner)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
