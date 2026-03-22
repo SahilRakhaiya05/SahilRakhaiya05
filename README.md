@@ -26,7 +26,7 @@ orgs:
 wins:
   - World AI Agent Hackathon       # Winner 🏆
   - Lindy AI Agent Competition     # Winner 🏅
-  - Intelligent Planet Hackathon   # Finalist & Trip to Saudi Arabia 
+  - Intelligent Planet Hackathon   # Finalist & Trip to Saudi Arabia 🛫
   - Google Summer of Code 2025     # Contributor — Liblouis Table Editor 🌍
 focus: Multi-Agent AI · Cloud Infrastructure · Open Source
 ```
