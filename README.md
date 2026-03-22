@@ -26,7 +26,7 @@ orgs:
 wins:
   - World AI Agent Competition     # Winner 🏆
   - Lindy AI Agent Competition     # Winner 🏅
-  - Google Summer of Code          # Contributor — Liblouis Table Editor 🌍
+  - Google Summer of Code 2025     # Contributor — Liblouis Table Editor 🌍
 focus: Multi-Agent AI · Cloud Infrastructure · Open Source
 ```
 
