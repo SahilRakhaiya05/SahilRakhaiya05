@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=22d3ee&center=true&vCenter=true&width=620&lines=Founder+%40+AIxO+%7C+GDG+Cloud+Lead+%40+Marwadi+University;World+AI+Agent+Competition+Winner+%F0%9F%8F%86;Google+Summer+of+Code+Contributor;Multi-Agent+AI+%7C+Cloud+Infrastructure+%7C+OSS)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-rakhaiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilrakhaiya)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/SahilRakhaiya05)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrakhaiya05@gmail.com)
 </div>
