@@ -38,7 +38,8 @@ focus: Multi-Agent AI · Cloud Infrastructure · Open Source
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahilRakhaiya05&show_icons=true&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&custom_title=GitHub+Stats&title_color=22d3ee&icon_color=f59e0b&text_color=e2ffff&bg_color=0d1117"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=SahilRakhaiya05&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&sideLabels=e2ffff&sideNums=e2ffff&background=0d1117&dates=8b9eb0"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=SahilRakhaiya05&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&currStreakNum=ffffff&sideLabels=e2ffff&sideNums=e2ffff&background=0d1117&dates=8b9eb0"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilRakhaiya05&layout=compact&hide_border=true&langs_count=10&custom_title=Top+Languages&title_color=22d3ee&text_color=e2ffff&bg_color=0d1117"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahilRakhaiya05&theme=github_dark&utcOffset=5.5"/>
