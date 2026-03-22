@@ -24,8 +24,9 @@ orgs:
   - Cloud Lead →  GDG On Campus, Marwadi University
   - Core Team  →  DeepQuantica
 wins:
-  - World AI Agent Competition     # Winner 🏆
+  - World AI Agent Hackathon       # Winner 🏆
   - Lindy AI Agent Competition     # Winner 🏅
+  - Intelligent Planet Hackathon   # Finalist & Trip to Saudi Arabia 
   - Google Summer of Code 2025     # Contributor — Liblouis Table Editor 🌍
 focus: Multi-Agent AI · Cloud Infrastructure · Open Source
 ```
