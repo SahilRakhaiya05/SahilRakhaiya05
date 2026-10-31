@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="537" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="573" class="">
   
 
   <defs><style>@font-face {
@@ -34,11 +34,11 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">sahilrakhaiya05@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Sahil Rakhaiya</b> registered=3y, uid=7420, gid=0
-  contributed to 77 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 78 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#03001c">#</span><span style="color:#03001c">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>4</b> users
 </div>
 <div class="stdin"><span class="ps1-path">sahilrakhaiya05@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 2894</b> commits
+  <b> 2922</b> commits
   <b>    1</b> pull request reviewed
   <b>   34</b> pull requests opened
   <b>   10</b> issues opened
@@ -50,11 +50,13 @@
   <b>   25</b> repositories starred
   <b>   14</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">sahilrakhaiya05@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 92 repositories - 2.19 GB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
+<div class="stdin"><span class="ps1-path">sahilrakhaiya05@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 93 repositories - 2.20 GB
+-r--  <b>   17</b>  stargazers
+-r--  <b>    3</b>  forks
+-r--  <b>   16</b>  watchers
 dr-x  <b>    0</b>  packages
+dr-x         LICENSE
+-r--         └── MIT
 </div>
 
 </pre>
