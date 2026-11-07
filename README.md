@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0f0f,80:001a1a,100:000000&height=180&section=header&text=Sahil%20Rakhaiya&fontSize=54&fontColor=e2ffff&fontAlignY=42&desc=Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Open%20Source&descAlignY=65&descSize=14&fontFamily=Raleway&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=22d3ee&center=true&vCenter=true&width=620&lines=Founder+%40+AIxO+%7C+GDG+Cloud+Lead+%40+Marwadi+University;World+AI+Agent+Competition+Winner+%F0%9F%8F%86;Google+Summer+of+Code+Contributor;Multi-Agent+AI+%7C+Cloud+Infrastructure+%7C+OSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=22d3ee&center=true&vCenter=true&width=620&lines=Founder+%40+GTOMAC+%7C+GDG+Cloud+Lead+%40+Marwadi+University;World+AI+Agent+Competition+Winner+%F0%9F%8F%86;Google+Summer+of+Code+Contributor;Multi-Agent+AI+%7C+Cloud+Infrastructure+%7C+OSS)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilrakhaiya)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/SahilRakhaiya05)
@@ -20,7 +20,7 @@
 name:  Sahil Rakhaiya
 role:  Software Engineer & AI Systems Builder
 orgs:
-  - Founder    →  AIxO              # AI-focused engineering org
+  - Founder    →  GTOMAC              # AI-focused Research engineering org
   - Cloud Lead →  GDG On Campus, Marwadi University
   - Core Team  →  DeepQuantica
 wins:
